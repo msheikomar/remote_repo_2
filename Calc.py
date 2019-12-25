@@ -1,10 +1,9 @@
 def add(x, y):
-    print("Moorthy")
     pass
 
 
 def subtract(x, y):
-    pass
+    return x - y
 
 
 def multiply(x, y):
