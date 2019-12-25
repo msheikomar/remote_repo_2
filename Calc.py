@@ -4,6 +4,7 @@ def add(x, y):
 
 
 def subtract(x, y):
+    print("Sub")
     return x - y
 
 
